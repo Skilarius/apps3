@@ -1,0 +1,5 @@
+{
+	"link":null,
+	"browser":true,
+	"percent":false
+}
